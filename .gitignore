@@ -1,3 +1,7 @@
+# Development files
+test/
+
+
 # OpenAI API key
 openai_config.json
 reverie/backend_server/utils.py
